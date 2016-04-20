@@ -1,0 +1,101 @@
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\SAKAP-web.dll.config
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\SAKAP-web.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\SAKAP-web.pdb
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Antlr3.Runtime.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\EntityFramework.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\EntityFramework.SqlServer.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Newtonsoft.Json.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Owin.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\System.Web.Optimization.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\System.Web.Providers.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\WebGrease.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\System.Web.Optimization.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Antlr3.Runtime.pdb
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Newtonsoft.Json.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\EntityFramework.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\EntityFramework.SqlServer.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\obj\Release\SAKAP-web.dll
+c:\users\narinc\documents\visual studio 2013\Projects\SAKAP-web\SAKAP-web\obj\Release\SAKAP-web.pdb
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\SAKAP-web.dll.config
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\SAKAP-web.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\SAKAP-web.pdb
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Antlr3.Runtime.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\EntityFramework.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\EntityFramework.SqlServer.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Newtonsoft.Json.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Owin.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\System.Web.Optimization.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\System.Web.Providers.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\WebGrease.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\System.Web.Optimization.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Antlr3.Runtime.pdb
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Newtonsoft.Json.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\EntityFramework.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\EntityFramework.SqlServer.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\obj\Release\SAKAP-web.csprojResolveAssemblyReference.cache
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\obj\Release\SAKAP-web.dll
+C:\Users\cscmehmet\Desktop\SAKUS\SAKAP-web\SAKAP-web\SAKAP-web\obj\Release\SAKAP-web.pdb

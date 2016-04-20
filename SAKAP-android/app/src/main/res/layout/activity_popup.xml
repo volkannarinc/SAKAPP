@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/borderup"
+        android:id="@+id/relativeLayout3"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/textView6"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:typeface="serif" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/relativeLayout3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:background="@drawable/border"
+        android:clickable="false">
+
+        <ToggleButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/toggleButton"
+            android:textColor="#ffffff"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/custom_togglebutton"/>
+
+        <Button
+            android:textColor="#ffffff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/saatguzergah"
+            android:id="@+id/button"
+            android:layout_below="@+id/toggleButton"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/saatguzergah"
+            android:layout_alignRight="@+id/toggleButton"
+            android:layout_alignEnd="@+id/toggleButton"
+            android:layout_alignLeft="@+id/toggleButton"
+            android:layout_alignStart="@+id/toggleButton"
+            />
+
+        <ImageView
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:id="@+id/imageView3"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="43dp"
+            android:background="@drawable/buswifi"/>
+
+    </RelativeLayout>
+</RelativeLayout>

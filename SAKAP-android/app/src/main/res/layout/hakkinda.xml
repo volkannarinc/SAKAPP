@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightblue"
+    >
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:background="@color/darkblue">
+
+
+        <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/darkblue"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Uygulamadan nsaıl tam fayda sağlayabilirim? "
+                    android:textColor="@color/text_shadow_white"
+                    android:gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvSoru1"
+                    android:textSize="20dp"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/lightblue"
+                android:textColor="@color/text_shadow_white"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SAKAPP'ı kullanmak için internet bağlantınızın olması gereklidir. Size en yakın otobüsleri görebilmek için ise konum bilginizin açık olması gerekmektedir."
+                    android:gravity="center"
+                    android:textColor="@color/text_shadow_white"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvCevap1"
+                    android:textSize="15dp"/>
+
+            </RelativeLayout>
+
+
+
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/darkblue"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Yakınlık sıralaması nedir?"
+                    android:textColor="@color/text_shadow_white"
+                    android:gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvSoru2"
+                    android:textSize="20dp"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/lightblue"
+                android:textColor="@color/text_shadow_white">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="En yakın otobüsler bölümünde, konumunuza en yakın otobüslerin yukarıdan aşağıya doğru sıralaması yapılır. Bu özellikten yararlanmak istiyorsanız, konum bilginizin açık olması gerekmektedir"
+                    android:gravity="center"
+                    android:textColor="@color/text_shadow_white"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvCevap2"
+                    android:textSize="15dp"/>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/darkblue"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Favorilerime ekleme ve ya çıkarma işlemlerini nasıl yapabilirim??"
+                    android:textColor="@color/text_shadow_white"
+                    android:gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvSoru4"
+                    android:textSize="20dp"/>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/lightblue"
+                android:textColor="@color/text_shadow_white"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" En yakın otobüsler sekmesinde, istediğiniz otobüs üzerine basılı tutarak, karşınıza çıkan pop-up'tan ekleme ya da çıkarma işlemlerinizi gerçekleştirebilirsiniz. Ayrıca favorilerinize ekledikten sonra favorilerim sekmesinde de aynı işlemlerle favorilerinizden çıkarabilirsiniz."
+                    android:gravity="center"
+                    android:textColor="@color/text_shadow_white"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvCevap4"
+                    android:textSize="15dp"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/darkblue"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kalkış saatlerini ve güzergahları nasıl öğrenebilirim?"
+                    android:textColor="@color/text_shadow_white"
+                    android:gravity="center"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/tvSoru5"
+                    android:textSize="20dp"/>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/lightblue"
+                android:textColor="@color/text_shadow_white"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="En yakın otobüsler sekmesinde kalkış saatini ve güzergahını öğrenmek istediğiniz otobüsün, üzerine basılı tutunuz. Gelen ekranda 'KALKIŞ SAATLERİ VE GÜZERGAHLAR' düğmesine basarak bilgiye ulaşabilirsiniz. "
+                    android:gravity="center"
+                    android:textColor="@color/text_shadow_white"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:id="@+id/tvCevap5"
+                    android:textSize="15dp"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+</ScrollView>
